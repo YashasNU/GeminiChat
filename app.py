@@ -6,7 +6,7 @@ import json
 import re
 
 # --- Configuration ---
-genai.configure(api_key="AIzaSyAS0HXFWPtjyDYPdEFAq3BLZOs-r0BFthg") # Replace with your actual key if needed
+genai.configure(api_key="YOUR_API_KEY") # Replace with your actual key generted from gemini
 HISTORY_DIR = "chat_histories"
 
 # --- Ensure History Directory Exists ---
